@@ -13,9 +13,11 @@ Requirements for your awesome dev article:
     accessible to a general programmer audience.
 * [ ] **Timeless content:** As much as is possible in this fast-paced industry, articles must have long-term relevance.
     Ask yourself: will someone still want to read this article five years from now?
-* [ ] **Author variety:** This list should not contain too many articles from any single author. If the list already
+* [ ] **Fresh author:** This list should not contain too many articles from any single author. If the list already
     has five or so articles from the same author, consider whether it's better to find someone else's take on the
     subject.
+* [ ] **Short:** Articles should be readable in one sitting; no books, multi-part series, etc.
+* [ ] **Not video:** There are lots of great software talks out there, but video is not as easily consumed as text.
 
 Requirements for your pull request:
 

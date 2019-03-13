@@ -62,7 +62,7 @@ A collection of awesome articles that are relevant to software developers.
 
 [Why Writing Correct Software Is Hard](https://pron.github.io/posts/correctness-and-complexity) - Ron Pressler
 
-[The algebra (and calculus!) of algebraic data types](https://codewords.recurse.com/issues/three/algebra-and-calculus-of-algebraic-data-types/) - Joel Burget
+[The algebra (and calculus!) of algebraic data types](https://codewords.recurse.com/issues/three/algebra-and-calculus-of-algebraic-data-types) - Joel Burget
 
 ### Culture & Diversity
 

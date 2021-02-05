@@ -168,6 +168,10 @@ A collection of awesome articles that are relevant to software developers.
 
 [Git from the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/) - John Wiegley
 
+[A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/) - Vincent Driessen
+
+[Understanding the GitHub flow](https://guides.github.com/introduction/flow/) - GitHub
+
 ### Special Topics
 
 [Image Processing 101](https://codewords.recurse.com/issues/six/image-processing-101) - Sher Minn Chong

@@ -132,6 +132,8 @@ A collection of awesome articles that are relevant to software developers.
 
 [The Humble Programmer](http://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD340.html) - Edsger W. Dijkstra
 
+[It is perfectly OK to only code at work, you can have a life too](https://initialcommit.com/blog/it-is-ok-to-only-code-at-work) - Marty Jacobs
+
 ### Performance
 
 [Slow Software](https://www.inkandswitch.com/slow-software.html) - Mark McGranaghan
@@ -179,6 +181,8 @@ A collection of awesome articles that are relevant to software developers.
 [Image Processing 101](https://codewords.recurse.com/issues/six/image-processing-101) - Sher Minn Chong
 
 [Learn Blockchains by Building One](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46) - Daniel van Flymen
+
+[Blockchain, the amazing solution for almost nothing](https://thecorrespondent.com/655/blockchain-the-amazing-solution-for-almost-nothing/86714927310-8f431cae) - Jesse Frederik
 
 ### Testing
 

@@ -102,6 +102,8 @@ A collection of awesome articles that are relevant to software developers.
 
 [We Hire the Best, Just Like Everyone Else](https://blog.codinghorror.com/we-hire-the-best-just-like-everyone-else/) - Jeff Atwood
 
+[How to Pay Programmers Less](https://www.yegor256.com/2016/12/06/how-to-pay-programmers-less.html) - Yegor Bugayenko
+
 ### Humour
 
 [Programming Sucks](https://www.stilldrinking.org/programming-sucks) - Peter Welch

@@ -126,7 +126,7 @@ A collection of awesome articles that are relevant to software developers.
 
 ### Philosophy
 
-[Why I'm The Best Programmer In The World*](https://blog.codinghorror.com/why-im-the-best-programmer-in-the-world/) - Jeff Atwood
+[Why I'm The Best Programmer In The World\*](https://blog.codinghorror.com/why-im-the-best-programmer-in-the-world/) - Jeff Atwood
 
 [The Humble Programmer](http://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD340.html) - Edsger W. Dijkstra
 
@@ -165,6 +165,7 @@ A collection of awesome articles that are relevant to software developers.
 ### Source Control
 
 [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/) - Chris Beams
+
 [Git from the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/) - John Wiegley
 
 ### Special Topics
